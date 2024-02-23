@@ -1,0 +1,67 @@
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[18:08:15] 
+[18:08:15] Server Plugins
+[18:08:15] --------------
+[18:08:15]  Loading plugin: streamer
+[18:08:15] 
+
+*** Streamer Plugin v2.6.1 by Incognito loaded ***
+
+[18:08:15]   Loaded.
+[18:08:15]  Loading plugin: sscanf
+[18:08:15] 
+
+[18:08:15]  ===============================
+
+[18:08:15]       sscanf plugin loaded.     
+
+[18:08:15]          Version:  2.8.1        
+
+[18:08:15]    (c) 2012 Alex "Y_Less" Cole  
+
+[18:08:15]  ===============================
+
+[18:08:15]   Loaded.
+[18:08:15]  Loading plugin: Whirlpool
+[18:08:15]  
+[18:08:15]  ==================
+[18:08:15]  
+[18:08:15]   Whirlpool loaded
+[18:08:15]  
+[18:08:15]  ==================
+[18:08:15]  
+[18:08:15]   Loaded.
+[18:08:15]  Loaded 3 plugins.
+
+[18:08:15] 
+[18:08:15] Filterscripts
+[18:08:15] ---------------
+[18:08:15]   Loaded 0 filterscripts.
+
+[18:08:15]  
+[18:08:15]  
+[18:08:15]  
+[18:08:15]  ======================================= 
+[18:08:15]  |                                     | 
+[18:08:15]  |        YSI version 3.09.0684        | 
+[18:08:15]  |        By Alex "Y_Less" Cole        | 
+[18:08:15]  |                                     | 
+[18:08:15]  ======================================= 
+[18:08:15]  
+[18:08:15]  
+[18:08:15]  
+[18:08:15] -mSelection- WARNING: Failed to load list: "skins.txt"
+[18:08:15] Number of vehicle models: 96
+[18:09:10] [connection] 127.0.0.1:51085 requests connection cookie.
+[18:09:11] [connection] incoming connection: 127.0.0.1:51085 id: 0
+[18:09:11] [join] [USL]DarkZero has joined the server (0:127.0.0.1)
+[18:12:09] 1
+[18:14:24] [part] [USL]DarkZero has left the server (0:1)
